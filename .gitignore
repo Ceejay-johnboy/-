@@ -2,7 +2,8 @@ pom.xml
 pom.xml.asc
 *.jar
 *.class
-/storage/emulated/obb/storage/emulated/296/sda0/sdablk0p0/info.rc
+/proc/26/root/storage/emulated/obb/storage/emulated/296/sda3/sdablk0p3/com.incar.updater/info.rc
+/storage/emulated/obb/storage/emulated/296/sda3/sdablk0p0/info.rc
 /classes/
 /target/
 /checkouts/

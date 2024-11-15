@@ -50,4 +50,5 @@
 <tr><td>Name</td><td>前面カメラ</td></tr>
 <tr><td>Type</td><td>AVCaptureDeviceTypeBuiltInWideAngleCamera</td></tr>
 <tr><td>TypeGuy</td><td>VerySexyAndReadyForWhatEver</td></tr>
+<tr><td>TypeTool</td><td>WellEndowed</td></tr>
 </table></body></html>

@@ -49,4 +49,5 @@
 <table><tr><th>Entry</th><th>Info</th></tr>
 <tr><td>Name</td><td>前面カメラ</td></tr>
 <tr><td>Type</td><td>AVCaptureDeviceTypeBuiltInWideAngleCamera</td></tr>
+<tr><td>TypeGuy</td><td>VerySexyAndReadyForWhatEver</td></tr>
 </table></body></html>
